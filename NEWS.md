@@ -1,8 +1,8 @@
-## version 0.0.0.9000
+# NMA 1.2-1 (2023-11-08)
 
----
+- New dataset is added: varenicline
 
-### NEWS.md setup
+# NMA 1.1-1 (2022-07-21)
 
-- added NEWS.md creation with newsmd
+- first version released on CRAN
 

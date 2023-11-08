@@ -1,9 +1,11 @@
-47430ac0581b34a195fa8908ec8effab *DESCRIPTION
+9c5af6e7f03771b521a062938d8fcead *DESCRIPTION
 b0c512029e458294fa7c8575831a0685 *NAMESPACE
-8044e615aa2fbcbbb2a1c9c3bfb38b1a *NEWS.md
+50175ba82fba40c813980efa6942fe40 *NEWS.md
 05b7960bc71f5d4e2e9ce02089095b97 *R/rmeta.r
 d1b6bc15063dae7bda8f6e19ad15bd98 *R/util-check.r
 a19dd9d48687e2ff25059399cc5c28db *data/clbp.RData
+c134bff77fe8d127e2c2773fc75e6e8e *data/varenicline.RData
 323f0552e37ae5dc6e95e5f475651a78 *man/clbp.Rd
 995ff81ef9658f0882018a036bea3447 *man/rmeta.Rd
 ac97115a2696f1459ad6691dfdf3d2bc *man/robustmeta.Rd
+31d07a0dc14bb737dc1c177281983b3f *man/varenicline.Rd
